@@ -12,6 +12,7 @@ set -o vi
 PS1="\[$IGreen\]\W\[$Color_Off\]:\[$IBlue\]$\[$Color_Off\] "
 PS2="\[$IPurple\]>\[$Color_Off\]"
 
+alias git = hub
 
 # added by Anaconda2 4.0.0 installer
 # export PATH="/Users/alan/anaconda/bin:$PATH"
